@@ -1,0 +1,21 @@
+body{
+    background-color: #3b3b3b;
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+}
+
+#container{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 500px;
+    align-items: center;
+    border-radius: 8px;
+}
+
+button {
+    margin: 10px;
+}
